@@ -1,4 +1,4 @@
-# [Bootstrap](http://getbootstrap.com)
+# [Bootstrap Landing Page](http://getbootstrap.com)
 
 [![Slack](https://bootstrap-slack.herokuapp.com/badge.svg)](https://bootstrap-slack.herokuapp.com)
 ![Bower version](https://img.shields.io/bower/v/bootstrap.svg)
@@ -38,7 +38,7 @@ Several quick start options are available:
 
 Read the [Getting started page](http://getbootstrap.com/getting-started/) for information on the framework contents, templates and examples, and more.
 
-### What's included
+### What's included in Bootstrap
 
 Within the download you'll find the following directories and files, logically grouping common assets and providing both compiled and minified variations. You'll see something like this:
 
@@ -123,8 +123,14 @@ For transparency into our release cycle and in striving to maintain backward com
 
 See [the Releases section of our GitHub project](https://github.com/twbs/bootstrap/releases) for changelogs for each release version of Bootstrap. Release announcement posts on [the official Bootstrap blog](http://blog.getbootstrap.com) contain summaries of the most noteworthy changes made in each release.
 
+## Creators of Bootstrap Landing Page
 
-## Creators
+**Jerryking Ajih**
+
+* <https://twitter.com/jerrykingajih>
+* <https://github.com/jajih>
+
+## Creators of Bootstrap
 
 **Mark Otto**
 
